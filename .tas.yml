@@ -11,7 +11,7 @@ preRun:
 postRun:
      command:
         - yarn --version
-nodeVersion: 9
+nodeVersion: 9.0.0
 version: 1.0
 
 
